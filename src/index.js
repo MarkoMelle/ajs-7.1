@@ -1,1 +1,1 @@
-import './js/destructuring';
+import './js/nicknames';
