@@ -1,1 +1,1 @@
-[![ajs-7.1](https://github.com/MarkoMelle/ajs-7.1/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/MarkoMelle/ajs-7.1/actions/workflows/main.yml)
+[![ajs-7.1](https://github.com/MarkoMelle/ajs-7.1/actions/workflows/main.yml/badge.svg)](https://github.com/MarkoMelle/ajs-7.1/actions/workflows/main.yml)
